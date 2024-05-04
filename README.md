@@ -1,3 +1,5 @@
+# AtliQ Company Sales Analysis
+
 ### Problem Statement:
 Atliq Company aims to analyze their sales performance to identify areas of improvement. They seek to pinpoint regions with low sales, determine their top-selling products, identify key customers, and analyze profit margins. Additionally, they aim to prioritize markets that offer higher profitability over revenue generation for strategic focus.sales data from 2017 to 2020 to optimize revenue generation. The dataset includes sales transactions and dimensions like products, dates, markets, and customers.
 ### Task List:
